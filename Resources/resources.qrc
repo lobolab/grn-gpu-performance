@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images/famfamfam_silk_icons/add.png</file>
+        <file>Images/famfamfam_silk_icons/application_view_detail.png</file>
+        <file>Images/famfamfam_silk_icons/brick.png</file>
+        <file>Images/famfamfam_silk_icons/bullet_add.png</file>
+        <file>Images/famfamfam_silk_icons/bullet_black.png</file>
+        <file>Images/famfamfam_silk_icons/bullet_blue.png</file>
+        <file>Images/famfamfam_silk_icons/bullet_delete.png</file>
+        <file>Images/famfamfam_silk_icons/bullet_green.png</file>
+        <file>Images/famfamfam_silk_icons/bullet_red.png</file>
+        <file>Images/famfamfam_silk_icons/bullet_white.png</file>
+        <file>Images/famfamfam_silk_icons/connect.png</file>
+        <file>Images/famfamfam_silk_icons/database_add.png</file>
+        <file>Images/famfamfam_silk_icons/database_delete.png</file>
+        <file>Images/famfamfam_silk_icons/database_go.png</file>
+        <file>Images/famfamfam_silk_icons/database_save.png</file>
+        <file>Images/famfamfam_silk_icons/delete.png</file>
+        <file>Images/famfamfam_silk_icons/door_in.png</file>
+        <file>Images/famfamfam_silk_icons/find.png</file>
+        <file>Images/famfamfam_silk_icons/folder_database.png</file>
+        <file>Images/famfamfam_silk_icons/heart_add.png</file>
+        <file>Images/famfamfam_silk_icons/page_white_database.png</file>
+        <file>Images/famfamfam_silk_icons/picture_save.png</file>
+        <file>Images/famfamfam_silk_icons/pill_add.png</file>
+        <file>Images/famfamfam_silk_icons/pill_go.png</file>
+        <file>Images/famfamfam_silk_icons/shape_handles.png</file>
+        <file>Images/famfamfam_silk_icons/shape_move_backwards.png</file>
+        <file>Images/famfamfam_silk_icons/shape_square.png</file>
+        <file>Images/famfamfam_silk_icons/shape_square_delete.png</file>
+        <file>Images/famfamfam_silk_icons/table_delete.png</file>
+        <file>Images/famfamfam_silk_icons/transmit.png</file>
+        <file>Images/famfamfam_silk_icons/database_lightning.png</file>
+        <file>Images/famfamfam_silk_icons/calculator.png</file>
+        <file>Images/famfamfam_silk_icons/report.png</file>
+        <file>Images/famfamfam_silk_icons/calculator_add.png</file>
+        <file>Images/famfamfam_silk_icons/picture_delete.png</file>
+        <file>Images/famfamfam_silk_icons/help.png</file>
+    </qresource>
+</RCC>
