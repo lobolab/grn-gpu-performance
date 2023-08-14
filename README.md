@@ -4,8 +4,8 @@ Supplementary Data for:
 
 > Inference of Dynamic Spatial GRN Models with Multi-GPU Evolutionary Computation<br>
 > Reza Mousavi, Sri Harsha Konuru, and Daniel Lobo<br>
-[Lobo Lab](https://lobolab.umbc.edu)<br>
-> *Under review*
+> Briefings in Bioinformatics 22(5), bbab104, 2021<br>
+> [DOI:10.1093/bib/bbab104](https://doi.org/10.1093/bib/bbab104)
 
 
 ## Building
